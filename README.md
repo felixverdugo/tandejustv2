@@ -2,7 +2,6 @@
 
 Simulador web interactivo que reparte una oferta limitada de agua entre los nodos de demanda de una ciudad **maximizando la equidad** y garantizando un **mínimo vital** por persona. Está pensado como herramienta de *tecnología cívica*: traduce un modelo de Programación Lineal en visualizaciones y en un calendario operativo de tandeo que cualquier tomador de decisiones puede leer.
 
----
 
 ## Características
 
