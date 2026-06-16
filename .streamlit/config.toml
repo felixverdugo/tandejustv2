@@ -1,0 +1,23 @@
+# EquiAgua v2.0 — Tema institucional (Govtech)
+# Ubicacion: <carpeta_del_proyecto>/.streamlit/config.toml
+
+[theme]
+base = "light"
+primaryColor = "#2c5f8a"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f5f9"
+textColor = "#1f2d3d"
+linkColor = "#2c5f8a"
+borderColor = "#dde3ea"
+baseRadius = "small"
+showSidebarBorder = true
+
+# Tipografia via Google Fonts (con respaldo sans-serif):
+#   - Cuerpo: Mulish (alternativa libre tipo Avenir, muy legible)
+#   - Titulos: Montserrat (geometrica, elegante)
+font = "Mulish:https://fonts.googleapis.com/css2?family=Mulish:wght@300..700&display=swap, sans-serif"
+headingFont = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@400..700&display=swap, sans-serif"
+
+[theme.sidebar]
+backgroundColor = "#f1f5f9"
+secondaryBackgroundColor = "#ffffff"
